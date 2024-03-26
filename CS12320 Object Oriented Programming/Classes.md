@@ -1,0 +1,1 @@
+Classes contain [[Methods]] and [[Objects]] 
