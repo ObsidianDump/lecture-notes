@@ -1,0 +1,1 @@
+Maps are an abstract data type [[ADT]] of ordered data that allows for saving and retrieval of said data provided a key. Maps have many implementations through hashing or trees, only have the requirement that the data is stored as [[Key-value pair]]'s with a key being used as an input, with a value returned that that key is mapped to.
